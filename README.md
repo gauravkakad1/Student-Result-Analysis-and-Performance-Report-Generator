@@ -1,1 +1,1 @@
-# first
+# A Python software which takes a pdf file as a input and convert it into csv file. And analysing the data, each student's performance reports are generated. 
